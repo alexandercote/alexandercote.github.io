@@ -153,3 +153,7 @@ a:hover, a:focus, a:active {
 img {
   max-width:80%;
 }
+
+<style>
+    tab { padding-left: 4em; }
+</style>
