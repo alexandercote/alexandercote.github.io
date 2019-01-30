@@ -4,39 +4,7 @@
   
   <url>
     <loc>https://alexandercote.github.io/projects/creations/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/contributions/</loc>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/contributions/deploy-triggers/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/publications/alldaydevops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/contributions/shields-docker/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/contributions/schema-org/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/creations/bosh-agents/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
   <url>
@@ -46,45 +14,25 @@
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/agile/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://alexandercote.github.io/projects/creations/1-deltaq-battery-charger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alexandercote.github.io/tags/3d-modelling/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/atlassian-developer-ecosystem/</loc>
+    <loc>https://alexandercote.github.io/projects/creations/4-alarm-clock-and-audio-amplifer-/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alexandercote.github.io/tags/amplifiers/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/atlassian-ecosystem/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/bamboo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/bash-shell/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/bitbucket/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/bosh/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <loc>https://alexandercote.github.io/tags/board-design/</loc>
     <priority>0</priority>
   </url>
   
@@ -94,88 +42,31 @@
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/ci-cd-pipelines/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://alexandercote.github.io/tags/control-systems/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/confluence/</loc>
+    <loc>https://alexandercote.github.io/tags/electronics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/continuous-delivery/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://alexandercote.github.io/tags/kicad/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/continuous-integration/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://alexandercote.github.io/projects/creations/2-light-pid-controller/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alexandercote.github.io/tags/motor-control-board-design-kicad/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/culture/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/devops/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/docker/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/projects/creations/docker-marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/java/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/javascript/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/jira/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/jquery/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/json/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/maven/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/monit/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/node.js/</loc>
+    <loc>https://alexandercote.github.io/tags/power-electronics/</loc>
     <priority>0</priority>
   </url>
   
@@ -185,42 +76,21 @@
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/publications/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/python/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/rest-apis/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alexandercote.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>https://alexandercote.github.io/tags/spring/</loc>
+    <loc>https://alexandercote.github.io/tags/solidworks/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alexandercote.github.io/projects/creations/3-stepper-motor-controler/</loc>
   </url>
   
   <url>
     <loc>https://alexandercote.github.io/tags/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alexandercote.github.io/tags/xml-xslt/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on Alexander Cote</title>
+    <link>https://alexandercote.github.io/tags/electronics/</link>
+    <description>Recent content in Electronics on Alexander Cote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://alexandercote.github.io/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1500W Battery Charger to Power Supply Modification</title>
+      <link>https://alexandercote.github.io/projects/creations/1-deltaq-battery-charger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandercote.github.io/projects/creations/1-deltaq-battery-charger/</guid>
+      <description>Modified a Delta-Q “QuiQ 1500” battery charger to become a lab power supply. Identified locations in the control loop to override the feedback to allow for a controlled voltage and current output. Designed a circuit and implemented it using proto-board to avoid control loop saturation and initial overshoot.</description>
+    </item>
+    
+  </channel>
+</rss>

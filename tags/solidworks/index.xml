@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solidworks on Alexander Cote</title>
+    <link>https://alexandercote.github.io/tags/solidworks/</link>
+    <description>Recent content in Solidworks on Alexander Cote</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://alexandercote.github.io/tags/solidworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alarm Clock and Audio Amplifier</title>
+      <link>https://alexandercote.github.io/projects/creations/4-alarm-clock-and-audio-amplifer-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandercote.github.io/projects/creations/4-alarm-clock-and-audio-amplifer-/</guid>
+      <description>Worked in a team of 3 to implement a music playing alarm clock using a shield on an STM32F4 microcontroller board. Features included displaying time on a 7 segment display, alarm buttons, snooze, ability to change time and volume control. Gained practice with schematic capture, circuit design and simulation (using resistors, diodes, transistors and Op-Amps), circuit prototyping on breadboards, PCB layout and routing, basic SolidWorks design for a case and writing software for a simple real time system.</description>
+    </item>
+    
+  </channel>
+</rss>

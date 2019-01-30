@@ -12,67 +12,30 @@
     
     
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://alexandercote.github.io/projects/contributions/deploy-triggers/</link>
+      <title>1500W Battery Charger to Power Supply Modification</title>
+      <link>https://alexandercote.github.io/projects/creations/1-deltaq-battery-charger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexandercote.github.io/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+      <guid>https://alexandercote.github.io/projects/creations/1-deltaq-battery-charger/</guid>
+      <description>Modified a Delta-Q “QuiQ 1500” battery charger to become a lab power supply. Identified locations in the control loop to override the feedback to allow for a controlled voltage and current output. Designed a circuit and implemented it using proto-board to avoid control loop saturation and initial overshoot.</description>
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://alexandercote.github.io/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandercote.github.io/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
- Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
-    
-    <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://alexandercote.github.io/projects/contributions/shields-docker/</link>
+      <title>Alarm Clock and Audio Amplifier</title>
+      <link>https://alexandercote.github.io/projects/creations/4-alarm-clock-and-audio-amplifer-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexandercote.github.io/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+      <guid>https://alexandercote.github.io/projects/creations/4-alarm-clock-and-audio-amplifer-/</guid>
+      <description>Worked in a team of 3 to implement a music playing alarm clock using a shield on an STM32F4 microcontroller board. Features included displaying time on a 7 segment display, alarm buttons, snooze, ability to change time and volume control. Gained practice with schematic capture, circuit design and simulation (using resistors, diodes, transistors and Op-Amps), circuit prototyping on breadboards, PCB layout and routing, basic SolidWorks design for a case and writing software for a simple real time system.</description>
     </item>
     
     <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://alexandercote.github.io/projects/contributions/schema-org/</link>
+      <title>Light Controlled LED - PID Controller</title>
+      <link>https://alexandercote.github.io/projects/creations/2-light-pid-controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexandercote.github.io/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
-    </item>
-    
-    <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://alexandercote.github.io/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://alexandercote.github.io/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
-    
-    <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://alexandercote.github.io/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandercote.github.io/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://alexandercote.github.io/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexandercote.github.io/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://alexandercote.github.io/projects/creations/2-light-pid-controller/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -87,6 +50,15 @@ Setting a very low sitemap priority will tell search engines this is not importa
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
 [outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>Stepper Motor Controller PCB</title>
+      <link>https://alexandercote.github.io/projects/creations/3-stepper-motor-controler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexandercote.github.io/projects/creations/3-stepper-motor-controler/</guid>
+      <description>Designed a circuit board to control the forward and reverse motion of a 6-wire stepper motor driver. Gained practice with schematic capture, PCB layout and routing using KiCad. First design used through hole components. The updated version uses surface mount devices to allow for a smaller board design.</description>
     </item>
     
   </channel>
